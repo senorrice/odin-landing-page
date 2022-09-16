@@ -1,0 +1,29 @@
+/*.content {
+  display: row;
+  justify-content: row;
+} */
+/*section 1*/
+.section1 { 
+  background: #1F2937;
+  color: white;
+}
+.logo.h2 {
+  font: #F9FAF8;
+  font-size: 48px;
+}
+.logo.p {
+  font: #F9FAF8;
+  font-size: 24px;
+}
+.section1.h4 {
+  font: #E5E7EB;
+  font-size: 18px;
+}
+
+.section2 {
+  background: white;
+}
+
+.section3 {
+  background: #E5E7EB;
+}
