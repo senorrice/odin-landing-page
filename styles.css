@@ -25,15 +25,21 @@
 }
 
 /*section 2*/
+.section2 {
+  padding-top: 5px;
+}
 .header2 {
   text-align: center;
   width: 100%;
 }
 .img-with-text {
   background: white;
-
-  justify-content: center;
+  display: flex;
+  flex-direction: row;
+  padding-top: 1em;
+  padding-bottom: 2em;
 }
+
 
 /*section 3*/
 .section3 {
