@@ -1,2 +1,2 @@
 # odin-landing-page
-Landing page project from The Odin Project
+Helo this is page about corporate amurica yes danke you. 
